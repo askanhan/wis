@@ -1,3 +1,0 @@
-# This is my README
-
-YEAH REPOSITORY
